@@ -1,2 +1,2 @@
 # BackSplash
-Wallpaper Application sourced from Unsplash.com
+Android Wallpaper Application sourced from Unsplash.com
